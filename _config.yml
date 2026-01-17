@@ -22,7 +22,7 @@ repository               : "danielhermosillo/danielhermosillo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "bio_photo_1.jpg"
   name             : "Daniel Hermosillo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Economics at Pitt"
