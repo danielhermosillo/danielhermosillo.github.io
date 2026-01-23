@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Daniel Hermosillo-Gutiérrez"
 title_separator          : "-"
 name                     : &name "Daniel Hermosillo-Gutiérrez"
@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D. Student in Economics at Pitt"
   location         : "Pittsburgh, PA"
   employer         : "University of Pittsburgh"
-  uri              : "danielhermosillo.github.io"
+  #uri              : "danielhermosillo.github.io"
   email            : "dah360@pitt.edu" 
 
   # Academic websites
