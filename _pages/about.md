@@ -12,6 +12,6 @@ I am a second-year Ph.D. student in the Economics Department at the University o
 
 My primary interests are in microeconomic theory and behavioral & experimental economics. 
 
-About Me
+#About Me 
 -----
 
